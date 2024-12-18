@@ -1,0 +1,14 @@
+[
+	//Arizona
+	{
+		"name": "Industrial Greenhouse",
+		"uniqueTo": "Arizona",
+		"terrainsCanBeBuiltOn": ["Desert", "Plains", "Grassland"],
+		"turnsToBuild": 12,
+		"uniques": ["[+1 Food] for each adjacent [Farm]", "[+1 Gold, +1 Food] for each adjacent [Plantation]",
+		"Cannot be built on [Desert] tiles <with [1] to [6] neighboring [Industrial Greenhouse] tiles>",
+		"Cannot be built on [Plains] tiles <with [1] to [6] neighboring [Industrial Greenhouse] tiles>",
+		"Cannot be built on [Grassland] tiles <with [1] to [6] neighboring [Industrial Greenhouse] tiles>"],
+		"techRequired": "Fertilizer",
+	},
+]

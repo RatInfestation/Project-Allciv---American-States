@@ -1,0 +1,15 @@
+[
+	//Texas
+	{
+		"name": "Ranch Hand",
+		"uniques": ["Can build [Pasture] improvements on tiles <in [Land] tiles>"]
+	},
+	{
+		"name": "Reliable Parts",
+		"uniques": ["[+15] HP when healing"],
+	},
+	{
+		"name": "Ransom I",
+		"uniques": ["Earn [10]% of killed [Military] unit's [Cost] as [Gold]"]
+	},
+]

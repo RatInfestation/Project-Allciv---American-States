@@ -1,0 +1,221 @@
+[
+	//Michigan
+	{
+		"name": "Michigan",
+		"leaderName": "Henry Ford",
+		"startBias": ["Lakes","Grassland"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Protestantism",
+
+		"declaringWar": "Your shenanigans have pushed us too far! We're fixin' to declare war, and you better believe Michigan's gonna come at ya like a freight train!",
+		"attacked": "Oh yeah? BRING IT ON!",
+		"defeated": "We might've hit a rough patch...",
+		"introduction": "Howdy there! I'm Henry Ford, president of Michigan. Nice of you to stumble by! I'm working on something that will change the world forever!",
+		"neutralHello": "Hello! Welcome to my workshop! What brings you here?",
+		"hateHello": "Go away! I'm working on something right now...",
+		"tradeRequest": "Listen up! I'm lookin' to trade some top-notch goods for your best darn resources. Let's make a deal that'll make both our regions proud!",
+
+		"outerColor": [0, 38, 255],
+		"innerColor": [255, 166, 158],
+
+		"uniqueName": "Ford Motor Company",
+		"uniques": ["[Gunpowder] units gain the [Reliable Parts] promotion <starting from the [Industrial era]>", "[Armour] units gain the [Reliable Parts] promotion <starting from the [Industrial era]>", "[Water] units gain the [Reliable Parts] promotion <starting from the [Industrial era]>", "[+2 Production] from every [Workshop]"],
+
+		"spyNames": ["James", "John", "Robert", "Michael", "William", "David", "Richard", "Charles", "Joseph", "Thomas", "Christopher", "Daniel", "Paul", "Mark", "Donald", "George", "Kenneth", "Steven", "Edward", "Brian"],
+		"cities": ["Lansing", "Detroit", "Grand Rapids", "Ann Arbor", "Flint", "Dearborn", "Livonia", "Troy", "Sterling Heights", "Kalamazoo", "Warren", "Saginaw", "Muskegon", "Novi", "Holland", "Traverse City", "Jackson", "Bay City", "Midland", "Port Huron"]
+
+	},
+	//California
+	{
+		"name": "California",
+		"adjective": ["Californian"],
+		"leaderName": "Hiram Johnson",
+		"startBias": ["Gold Ore", "Silver", "Copper"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Protestantism",
+
+		"declaringWar": "To eliminate corruption is not merely a goal; it is our sacred duty to ensure a government that serves all its citizens.",
+		"attacked": "You have chosen the path of aggression, but know this: the spirit of the people cannot be silenced by force.",
+		"defeated": "Let history remember us not for our victories alone, but for our unyielding fight against oppression and injustice.",
+		"introduction": "I am Hiram Johnson, a servant of the people. Together, we shall forge a future where democracy thrives and corruption falters.",
+
+		"neutralHello": "Greetings, friend.",
+		"hateHello": "Your actions betray the very principles of democracy.",
+
+		"tradeRequest": "Let us engage in trade, for it is through mutual benefit that we can strengthen our bonds and enrich our nations.",
+
+		"outerColor": [219, 134, 114],
+		"innerColor": [147, 3, 46],
+
+		"uniqueName": "The Great Gold Rush",
+		"uniques": ["Double quantity of [Gold Ore] produced", "Double quantity of [Silver] produced", "Double quantity of [Copper] produced", "[+1 Gold] from every [Mine] <within [1] tiles of a [City center]>"],
+
+		"spyNames": ["James", "John", "Robert", "Michael", "William", "David", "Richard", "Charles", "Joseph", "Thomas", "Christopher", "Daniel", "Paul", "Mark", "Donald", "George", "Kenneth", "Steven", "Edward", "Brian"],
+		"cities": ["Sacramento", "Los Angeles", "San Francisco", "San Diego", "San Jose", "Fresno", "Long Beach", "Oakland", "Bakersfield", "Anaheim", "Santa Ana", "Riverside", "Stockton", "Irvine", "Chula Vista", "Fremont", "San Bernardino", "Modesto", "Fontana", "Santa Clarita"]
+
+	},
+	//Ohio
+	{
+		"name": "Ohio",
+		"adjective": ["Ohian"],
+		"leaderName": "William Henry Harrison",
+		"startBias": ["Avoid [Tundra]", "Avoid [Snow]", "Oil"],
+		"preferredVictoryType": "Scientific",
+		"favoredReligion": "Protestantism",
+
+		"declaringWar": "Your actions leave me no choice but to take up arms. I declare war in defense of my nation and the principles we hold dear!",
+		"attacked": "You have chosen the path of aggression. Know that I will not falter in the face of tyranny; my people stand ready to defend our freedom!",
+		"defeated": "Though the tide has turned against us, let it be known that we fought for liberty and justice until the very end.",
+		"introduction": "Greetings, traveler! As we stand on the precipice of history, let us forge a path of prosperity and liberty together.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "Ah, it seems we meet again under less than favorable circumstances.",
+
+		"tradeRequest": "Let us engage in a fair exchange, for trade is the lifeblood of nations.",
+
+		"outerColor": [232, 180, 255],
+		"innerColor": [10, 35, 56],
+
+		"uniqueName": "Birthplace of Aviation",
+		"uniques": ["[+15]% Strength <for [Air] units>", "[+33]% XP gained from combat <for [Air] units>", "[+20]% Production when constructing [Air] units [in all cities]", "[+1 Science] [in capital] <before discovering [Flight]>"],
+
+		"spyNames": ["James", "John", "Robert", "Michael", "William", "David", "Richard", "Charles", "Joseph", "Thomas", "Christopher", "Daniel", "Paul", "Mark", "Donald", "George", "Kenneth", "Steven", "Edward", "Brian"],
+		"cities": ["Columbus", "Cleveland", "Cincinnati", "Toledo", "Akron", "Dayton", "Parma", "Canton", "Youngstown", "Lorain", "Hamilton", "Springfield", "Kettering", "Elyria", "Cuyahoga Falls", "Lakewood", "Middletown", "Newark", "Euclid", "Dublin"]
+	},
+	{
+		"name": "Arizona",
+		"adjective": ["Arizonian"],
+		"leaderName": "Carl Hayden",
+		"startBias": ["Desert", "Copper"],
+		"preferredVictoryType": "Scientific",
+		"favoredReligion": "Protestantism",
+
+		"declaringWar": "It is with a heavy heart that I declare war upon you. Your actions leave me no choice, but know that I fight for the future of my people.",
+		"attacked": "You dare to strike at Arizona?",
+		"defeated": "Though we stand on the brink of defeat, our spirit will endure.",
+		"introduction": "Welcome! It is a pleasure to meet you.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "I hope you tread carefully; the desert can be unforgiving.",
+
+		"tradeRequest": "In the spirit of cooperation, I propose a trade.",
+
+		"outerColor": [239, 136, 54],
+		"innerColor": [51, 62, 144],
+
+		"uniqueName": "The Copper State",
+		"uniques": ["[+1 Gold, +1 Food, +1 Science] in cities on [Desert] tiles", "[+1 Production] from every [Mine] <in [Desert] tiles>"],
+
+		"spyNames": ["James", "John", "Robert", "Michael", "William", "David", "Richard", "Charles", "Joseph", "Thomas", "Christopher", "Daniel", "Paul", "Mark", "Donald", "George", "Kenneth", "Steven", "Edward", "Brian"],
+		"cities": ["Phoenix", "Tucson", "Mesa", "Chandler", "Gilbert", "Glendale", "Scottsdale", "Peoria", "Tempe", "Surprise"]
+	},
+	{
+		"name": "Alaska",
+		"adjective": ["Alaskan"],
+		"leaderName": "William A. Egan",
+		"startBias": ["Tundra", "Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Protestantism",
+
+		"declaringWar": "The battles we face are not just against foes but against the isolation that has long defined us. We will rise together!",
+		"attacked": "Statehood is not merely a title; it is a promise of representation and rights for every Alaskan. We shall not be overlooked!",
+		"defeated": "TBA",
+		"introduction": "Alaska is not just a territory; it is a beacon of hope and resilience. Let us welcome all who seek opportunity under our northern lights.",
+
+		"neutralHello": "Welcome! It is a pleasure to see you.",
+		"hateHello": "You approach with trepidation...",
+
+		"tradeRequest": "The winds have turned against us, and the shadows close in.",
+
+		"outerColor": [30, 34, 94],
+		"innerColor": [217, 208, 150],
+
+		"uniqueName": "The Last Frontier",
+		"uniques": ["[-75]% Culture cost of natural border growth [in all cities] <for [26] turns>", "[+1 Production] from every [Fishing Boats]"],
+
+		"spyNames": ["James", "John", "Robert", "Michael", "William", "David", "Richard", "Charles", "Joseph", "Thomas", "Christopher", "Daniel", "Paul", "Mark", "Donald", "George", "Kenneth", "Steven", "Edward", "Brian"],
+		"cities": ["Juneau", "Anchorage", "Fairbanks", "Wasilla", "Sitka", "Ketchikan", "Kenai", "Bethel", "Palmer", "Kodiak"]
+	},
+	{
+		"name": "Texas",
+		"adjective": ["Texan"],
+		"leaderName": "Stephen F. Austin",
+		"startBias": ["Cattle", "Horses"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Protestantism",
+
+		"declaringWar": "I can no longer stand idly by while you threaten our way of life. Prepare yourself, for Texas will not back down!",
+		"attacked": "You dare raise your hand against Texas?",
+		"defeated": "It seems our dreams have been extinguished. Texas will allways wear the lone star.",
+		"introduction": "Greetings, friend. I am Stephen F. Austin, and I stand ready to forge a new future for Texas.",
+
+		"neutralHello": "In the face of adversity, we must lead with patience and courage; our sacrifices today will forge the path to a brighter tomorrow.",
+		"hateHello": "A nation can only be free, happy, and great in proportion to the virtue and intelligence of its people.",
+
+		"tradeRequest": "Let us weave our resources together; prosperity is best shared among allies.",
+
+		"outerColor": [25, 29, 84],
+		"innerColor": [254, 29, 65],
+
+		"uniqueName": "The Lone-Star State",
+		"uniques": ["[+1 Production] from every [Pasture] <in [Cattle] tiles>", "[+1 Production] from every [Pasture] <in [Horse] tiles>", "[Civilian] units gain the [Ranch Hand] promotion", "[Scout] units gain the [Ranch Hand] promotion", "[Mounted] units gain the [Ranch Hand] promotion"],
+
+		"spyNames": ["James", "John", "Robert", "Michael", "William", "David", "Richard", "Charles", "Joseph", "Thomas", "Christopher", "Daniel", "Paul", "Mark", "Donald", "George", "Kenneth", "Steven", "Edward", "Brian"],
+		"cities": ["Austin", "Houston", "San Antonio", "Dallas", "Fort Worth", "El Paso", "Arlington", "Corpus Christi", "Plano", "Laredo", "Lubbock", "Garland", "Irving", "Amarillo", "Grand Prairie", "McKinney", "Frisco", "Brownsville", "Pasadena", "Killeen"]
+	},
+	{
+		"name": "Oregon",
+		"adjective": ["Oregan"],
+		"leaderName": "John Whiteaker",
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Protestantism",
+
+		"declaringWar": "This is not a decision made lightly, but your actions leave us no choice. Oregon will defend its honor with all its might!",
+		"attacked": "Know that the spirit of Oregon will not be extinguished easily!",
+		"defeated": "History remembers not just our victories, but the principles we stood for. Let us be remembered as guardians of our land and its people.",
+		"introduction": "Ah, a pleasure to meet you! I am John Whiteaker, the steward of Oregon. Together, let us build a future rooted in integrity.",
+
+		"neutralHello": "May our discussions pave the way for cooperation.",
+		"hateHello": "A state is built not just on laws, but on the integrity of its leaders.",
+
+		"tradeRequest": "Our resources can strengthen both our nations and foster goodwill.",
+
+		"outerColor": [63, 85, 47],
+		"innerColor": [201, 160, 38],
+
+		"uniqueName": "The Oregon Trail",
+		"uniques": ["[+25]% Production when constructing [Settler] units [in all cities]", "Provides a [Granary] in your first [3] cities for free"],
+
+		"spyNames": ["James", "John", "Robert", "Michael", "William", "David", "Richard", "Charles", "Joseph", "Thomas", "Christopher", "Daniel", "Paul", "Mark", "Donald", "George", "Kenneth", "Steven", "Edward", "Brian"],
+		"cities": ["Austin", "Houston", "San Antonio", "Dallas", "Fort Worth", "El Paso", "Arlington", "Corpus Christi", "Plano", "Laredo", "Lubbock", "Garland", "Irving", "Amarillo", "Grand Prairie", "McKinney", "Frisco", "Brownsville", "Pasadena", "Killeen"]
+	},
+	{
+		"name": "New York",
+		"adjective": ["New Yorker"],
+		"leaderName": "Nelson Rockefeller",
+		"startBias": ["Grassland", "Coast"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Protestantism",
+
+		"declaringWar": "You leave me no choice but to take up arms. This conflict will not define us; rather, it will reveal our true character.",
+		"attacked": "To attack is to forsake reason.",
+		"defeated": "In the realm of governance, we must embrace change as a catalyst for progress.",
+		"introduction": "Greetings! As we stand at the crossroads of opportunity, let us chart a course toward prosperity together.",
+
+		"neutralHello": "Ah, a pleasure to meet you!",
+		"hateHello": "It seems our paths have crossed under less than favorable circumstances.",
+
+		"tradeRequest": "Vision without action is merely a dream; let us act decisively to shape our destiny.",
+
+		"outerColor": [63, 136, 197],
+		"innerColor": [194, 249, 112],
+
+		"uniqueName": "Ever Upward",
+		"uniques": ["[+2 Culture] from every [World Wonder]", "[+2 Culture] from every [World Wonder] <during a Golden Age>", "[+15]% [Production] [in all cities] <in cities with a [World Wonder]> <during a Golden Age>"],
+
+		"spyNames": ["Aya", "Joseph", "Smokey", "Pacino", "Gaga", "Lopez", "Chalmers", "Vito", "Peter", "Bruce", "Bateman", "Bonanno", "Colombo", "Gambino", "Genovese", "Lucchese"],
+		"cities": ["New York City", "Jamestown", "Buffalo", "Yonkers", "Rochester", "Syracuse", "Albany", "New Rochelle", "Mount Vernon", "Schenectady", "Utica", "White Plains", "Hempstead", "Troy", "Niagara Falls", "Binghamton", "Freeport", "Valley Stream", "Long Beach", "Spring Valley", "Kiryas Joel", "Rome", "Ithaca", "Port Chester", "Poughkeepsie", "North Tonawanda","Middletown", "Newburgh", "Saratoga Springs", "Glen Cove", "Harrison", "Ossining",
+]
+	},
+]

@@ -1,0 +1,117 @@
+[
+		//Michigan
+		{
+			"name": "Assembly Line",
+			"uniqueTo": "Michigan",
+			"replaces": "Factory",
+			"cost": 360,
+			"production": 5,
+			"uniques": ["[+15]% Production when constructing [Armour] units [in this city]", "[+15]% Production when constructing [Air] units [in this city]", "[+15]% Production when constructing [{Military} {Water}] units [in this city]", "[+10]% Production when constructing [Gunpowder] units [in this city]", "[+10]% Production when constructing [Ranged Gunpowder] units [in this city]"],
+			"percentStatBonus": {"production": 10},
+			"specialistSlots": {"Engineer": 2},
+			"requiredBuilding": "Workshop",
+			"maintenance": 4,
+			"hurryCostModifier": 0,
+			"requiredResource": "Coal",
+			"requiredTech": "Industrialization"
+		},
+		//California
+		{
+			"name": "Film Studio",
+			"uniqueTo": "California",
+			"replaces": "Broadcast Tower",
+			"culture": 3,
+			"percentStatBonus": {"culture": 33},
+			"requiredBuilding": "Museum",
+			"maintenance": 3,
+			"greatPersonPoints": {"Great Artist": 1},
+			"requiredTech": "Radio",
+			"uniques": ["Destroyed when the city is captured",
+			"Comment [+1 [Great Artist] points in this city]",
+			"[+4 Culture] from [Landmark] tiles [in this city]",]
+		},
+		//Ohio
+		{
+			"name": "Hall of Fame",
+			"uniqueTo": "Ohio",
+			"replaces": "Museum",
+			"culture": 5,
+			"specialistSlots": {"Artist": 2},
+			"requiredBuilding": "Opera House",
+			"maintenance": 3,
+			"hurryCostModifier": 0,
+			"requiredTech": "Archaeology",
+			"uniques": ["Destroyed when the city is captured", "[+2 Happiness, +2 Culture] from [Great Improvement] tiles [in this city]", "[+20]% Great Person generation [in this city]"]
+		},
+		//Alaska
+		{
+			"name": "Northern Outpost",
+			"uniqueTo": "Alaska",
+			"replaces": "Windmill",
+			"production": 2,
+			"specialistSlots": {"Engineer": 1},
+			"hurryCostModifier": 25,
+			"maintenance": 2,
+			"uniques": ["Must have an owned [Forest] within [2] tiles", "[+1 Science] from [Forest] tiles [in this city]"],
+			"requiredTech": "Economics"
+		},
+		//Texas
+		{
+			"name": "The Alamo",
+			"replaces": "Temple",
+			"uniqueTo": "Texas",
+			"maintenance": 2,
+			"faith": 2,
+			"culture": 1,
+			"cityStrength": 5,
+			"cityHealth": 25,
+			"hurryCostModifier": 25,
+			"requiredTech": "Philosophy"
+		},
+		//Oregon
+		{
+			"name": "Sheriff's Office",
+			"replaces": "Courthouse",
+			"uniqueTo": "Oregon",
+			"maintenance": 3,
+			"happiness": 2,
+			"hurryCostModifier": 50,
+			"uniques": ["Remove extra unhappiness from annexed cities"],
+			"requiredTech": "Mathematics"
+		},
+		//New York (I'm walkin ,ere!)
+		{
+			"name": "Architectural Office",
+			"uniqueTo": "New York",
+			"replaces": "Factory",
+			"cost": 360,
+			"production": 4,
+			"percentStatBonus": {"production": 10},
+			"specialistSlots": {"Engineer": 2},
+			"requiredBuilding": "Workshop",
+			"maintenance": 3,
+			"uniques": ["Only available <in cities with a [World Wonder]>",
+		 	"[+10]% [Production] [in this city]",
+		 	"[+10]% [Production] [in all cities] <in cities without a [World Wonder]>",
+	 		"Provides [1] [Skyscrapper Plans]"],
+			"hurryCostModifier": 0,
+			"requiredResource": "Coal",
+			"requiredTech": "Industrialization"
+		},
+		{
+			"name": "Skyscrapper",
+			"uniqueTo": "New York",
+			"cost": 500,
+			"gold": 8,
+			"production": 2,
+			"greatPersonPoints": {"Great Merchant": 2},
+			"specialistSlots": {"Merchant": 4},
+			"uniques": ["Only available <in cities with a [World Wonder]>",
+		 	"Comment [+2 [Great Merchant] points in this city]",
+		 	"Comment [+4 [Merchant Specialist] slots in this city]",
+			"[+50]% [Gold] [in this city]",
+			"[+15]% [Production] [in this city]"],
+			"requiredResource": "Skyscrapper Plans",
+			"requiredTech": "Architecture"
+		},
+]

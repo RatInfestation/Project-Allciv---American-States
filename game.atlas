@@ -1,0 +1,223 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Architectural Office
+  rotate: false
+  xy: 162, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Skyscrapper Plans
+  rotate: false
+  xy: 162, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Assembly Line
+  rotate: false
+  xy: 4, 1344
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+BuildingIcons/Film Studio
+  rotate: false
+  xy: 1578, 1786
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hall of Fame
+  rotate: false
+  xy: 1736, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Northern Outpost
+  rotate: false
+  xy: 870, 1186
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sheriff's Office
+  rotate: false
+  xy: 470, 478
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Skyscrapper
+  rotate: false
+  xy: 420, 370
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/The Alamo
+  rotate: false
+  xy: 1028, 1186
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Industrial Greenhouse
+  rotate: false
+  xy: 4, 170
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NationIcons/Alaska
+  rotate: false
+  xy: 712, 1186
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NationIcons/Arizona
+  rotate: false
+  xy: 1420, 1894
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NationIcons/California
+  rotate: false
+  xy: 4, 636
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+NationIcons/Michigan
+  rotate: false
+  xy: 870, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/New York
+  rotate: false
+  xy: 1028, 1078
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ohio
+  rotate: false
+  xy: 712, 1344
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+NationIcons/Oregon
+  rotate: false
+  xy: 1420, 1736
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NationIcons/Texas
+  rotate: false
+  xy: 712, 870
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ReligionIcons/Protestantism
+  rotate: false
+  xy: 1186, 1236
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cowboy
+  rotate: false
+  xy: 1420, 1539
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+UnitIcons/Cowboy
+  rotate: false
+  xy: 312, 370
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DH-4 Liberty
+  rotate: false
+  xy: 4, 328
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+UnitIcons/Empire Shield
+  rotate: false
+  xy: 1420, 1628
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Irrigator
+  rotate: false
+  xy: 312, 478
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UnitIcons/Kodiak Marksman
+  rotate: false
+  xy: 712, 1028
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UnitIcons/M-4 Sherman
+  rotate: false
+  xy: 712, 762
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pioneer
+  rotate: false
+  xy: 1578, 1894
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UnitIcons/Texas Ranger
+  rotate: false
+  xy: 870, 1028
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Ranch Hand
+  rotate: false
+  xy: 4, 12
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Ransom
+  rotate: false
+  xy: 162, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Reliable Parts
+  rotate: false
+  xy: 162, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
